@@ -64,6 +64,6 @@
   <a href="https://replit.com/@leoouww" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a> 
  
  <!-- Cobrinha para comer meus commits --> 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+ ![Snake animation](https://github.com/leoouww/leoouww/blob/output/github-contribution-grid-snake.svg) 
  </div>
  
