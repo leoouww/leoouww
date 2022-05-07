@@ -68,4 +68,5 @@
  ![Snake animation](https://github.com/leoouww/leoouww/blob/output/github-contribution-grid-snake.svg) 
   
  </div>
- 
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=leoouww&repo=leoouww&theme=react)](https://github.com/leoouww/leoouww)
+
