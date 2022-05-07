@@ -6,15 +6,6 @@
 - 📫 Contatos: rcleonardo1995@gmail.com / +55 (11) 9 4068-2251
 - 🐶 Pet Lover
 
-<!-- Indicação dos status do meu próprio GIT, com o acompanhamento das linguagens utilziadas -->
-##
-<div align="center">
-  <a href="https://github.com/leoouww">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoouww&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoouww&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  
  <!-- Separação da indicação dos meus skills -->
   ##
 ### Skills  
@@ -61,11 +52,20 @@
   <a href="https://instagram.com/leoouww" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/leonardo-castro-programmer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:rcleonardo1995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://replit.com/@leoouww" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a> 
+  <a href="https://replit.com/@leoouww" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a></br></br> 
  
+ ##
  <!-- Cobrinha para comer meus commits --> 
-  
  ![Snake animation](https://github.com/leoouww/leoouww/blob/output/github-contribution-grid-snake.svg) 
-  
  </div>
+ </br>
+ 
+ ##
+ <!-- Indicação dos status do meu próprio GIT, com o acompanhamento das linguagens utilziadas -->
+<div align="center">
+  <a href="https://github.com/leoouww">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoouww&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoouww&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
  
