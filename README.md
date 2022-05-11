@@ -64,8 +64,8 @@
  <!-- Indicação dos status do meu próprio GIT, com o acompanhamento das linguagens utilziadas -->
 <div align="center">
   <a href="https://github.com/leoouww">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoouww&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoouww&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoouww&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoouww&layout=compact&theme=dracula"/>
 </div>
 
  
